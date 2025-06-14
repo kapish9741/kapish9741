@@ -1,4 +1,4 @@
-## Hi, I’m Kapish 👋 <img align="right" src="https://avatars.githubusercontent.com/u/55418697?v=4" width="200" />
+## Hi, I’m Kapish 👋
 I'm a Computer Science undergrad and passionate builder from India, focused on front-end development, backend APIs, and AI-powered products. I love turning bold ideas into functional tools — from UI prototypes to full-stack web apps.
 
 I specialize in React, Node.js, Express, and MongoDB, and I’m currently learning advanced backend systems like Prisma, PostgreSQL, and Flask. 
