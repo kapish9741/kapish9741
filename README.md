@@ -11,5 +11,4 @@ Thanks for stopping by 🌱
 <h2 align="center"> 🚀 My Stats 🚀</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kapish9741&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudhanPlayz&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true">
 </p>
